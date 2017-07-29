@@ -1,7 +1,6 @@
 <strings>
 
-    <!-- Gracias Ruorbe para la traducción -->
-    
+   
     <!-- Language ID -->
     <string id="30000">ES</string>
     <!-- Menue Items -->
@@ -14,17 +13,18 @@
     <string id="30007">[COLOR ##COLOR##]Restaurar[/COLOR] Serie TV</string>
     <string id="30008">[COLOR ##COLOR##]Suprimir[/COLOR] Serie TV</string>
     <string id="30009">[COLOR ##COLOR##]Actualizar[/COLOR] biblioteca de video</string>
-    <string id="30010">[COLOR ##COLOR##]Comprobar[/COLOR] si existen nuevos episodios</string>
+    <!-- <string id="30010">[COLOR ##COLOR##]Comprobar[/COLOR] si existen nuevos episodios</string>-->
+	<string id="30010">[COLOR ##COLOR##]Buscar[/COLOR] nuevos episodios</string>
     <string id="30011">[COLOR ##COLOR##]Combinar[/COLOR] Series TV</string>
     <string id="30012">[COLOR ##COLOR##]Renombrar[/COLOR] Serie TV</string>
     <string id="30013">[COLOR ##COLOR##]Renombrar[/COLOR] recurso de origen</string>
-    <string id="30014">[COLOR ##COLOR##]Administrar[/COLOR] mi colección</string>
-    <string id="30015">[COLOR ##COLOR##]Añadir[/COLOR] a [COLOR ##COLOR##]Serie TV existente[/COLOR]</string>
-    <string id="30016">[COLOR ##COLOR##]Añadir[/COLOR] como [COLOR ##COLOR##]Serie TV[/COLOR] Nueva</string>
+    <string id="30014">[COLOR ##COLOR##]Gestionar[/COLOR] actualizaciones</string>
+    <string id="30015">[COLOR ##COLOR##]Añadir[/COLOR] a Serie TV [COLOR ##COLOR##]existente[/COLOR]</string>
+    <string id="30016">[COLOR ##COLOR##]Añadir[/COLOR] como Serie TV [COLOR ##COLOR##]Nueva[/COLOR]</string>
     <!--string id="30017">[COLOR ##COLOR##]&gt;&gt;[/COLOR] </string-->
     <string id="30017">[COLOR ##COLOR##]Actualizar[/COLOR] </string>
     <string id="30018">[COLOR ##COLOR##]Mostrar todas[/COLOR] las Series TV</string>
-    <string id="30019">[COLOR ##COLOR##]Gestionar[/COLOR] recursos de origen</string>
+    <string id="30019">[COLOR ##COLOR##]Gestionar[/COLOR] recurso de origen</string>
     <string id="30020">[COLOR ##COLOR##]Gestionar[/COLOR] Series TV</string>
     <string id="30021">[ [COLOR ##COLOR##]</string>
     <string id="30022">[/COLOR] ]</string>
@@ -43,7 +43,7 @@
     <string id="30035">Por defecto</string>
     <string id="30036">Sequencial</string>
     <string id="30037">Por defecto</string>
-    <string id="30038">Comenzar a añadir[COLOR ##COLOR##] >[/COLOR]</string>
+    <string id="30038">Comenzar a [COLOR ##COLOR##]añadir[/COLOR] >></string>
     <string id="30039">[COLOR ##COLOR##]Añadir Serie TV:[/COLOR]  </string>
     <string id="30040">[COLOR ##COLOR##]Títulos de episodios:[/COLOR]  </string>
     <string id="30041">Por defecto</string>
@@ -84,27 +84,27 @@
     <string id="30098">[COLOR ##COLOR##]&lt;[/COLOR] Retroceder</string>
     <string id="30099">Cancelar</string>
     <!-- Confirms -->
-    <string id="30071">¿Quiere [COLOR ##COLOR##]rescanear[/COLOR] el recurso para %s?</string>
+    <string id="30071">¿Está seguro de querer [COLOR ##COLOR##]rescanear[/COLOR] el recurso para %s?</string>
     <string id="30072">¿Está seguro de querer [COLOR ##COLOR##]eliminar[/COLOR] el recurso para %s?</string>
     <string id="30073">¿Está seguro de querer [COLOR ##COLOR##]restaurar[/COLOR] esta Serie TV?</string>
     <string id="30074">¿Está seguro de querer [COLOR ##COLOR##]eliminar[/COLOR] esta Serie TV?</string>
-    <string id="30075">¿Quiere [COLOR ##COLOR##]renombrar[/COLOR] esta Serie TV?</string>
-    <string id="30076">¿Está seguro de querer [COLOR ##COLOR##]combinar[/COLOR] estas Serie TVs TV?</string>
+    <string id="30075">¿Está seguro de querer [COLOR ##COLOR##]renombrar[/COLOR] esta Serie TV?</string>
+    <string id="30076">¿Está seguro de querer [COLOR ##COLOR##]combinar[/COLOR] estas Series TV?</string>
     <string id="30077">¿Está seguro de querer [COLOR ##COLOR##]limpiar[/COLOR] la biblioteca de video?</string>
     <string id="30078">¿Está seguro de querer [COLOR ##COLOR##]añadir[/COLOR] Serie TV con título: [COLOR ##COLOR##]%s[/COLOR]?</string>
     <string id="30079">¿Está seguro de querer [COLOR ##COLOR##]restaurar todas[/COLOR] las Series TV?</string>
     <string id="30080">¿Está seguro de querer [COLOR ##COLOR##]rescanear[/COLOR] el recurso para la Serie TV seleccionada?</string>
     <string id="30081">¿Está seguro de querer [COLOR ##COLOR##]rescanear todos[/COLOR] los recursos para [COLOR ##COLOR##]todas las Series TV[/COLOR]?</string>
     <string id="30082">¿Está seguro de querer [COLOR ##COLOR##]renombrar automaticamente[/COLOR] todos los recursos?</string>
-    <string id="30083">Add-on [COLOR red]bloqueado[/COLOR] hasta que se ejecuten los procesos en segundo plano. ¿Desea forzar desbloqueo?</string>
+    <string id="30083">Add-on [COLOR red]bloqueado[/COLOR] hasta finalizar procesos en segundo plano. ¿Desea forzar desbloqueo?</string>
     <string id="30084">¿Está seguro de querer [COLOR ##COLOR##]eliminar[/COLOR] todas las copias de seguridad?</string>
-    <string id="30085">¿Desea restaurar la Biblioteca desde la copia de seguridad? ([COLOR ##COLOR##]%s[/COLOR])?</string>
-    <string id="30086">¿Está seguro de querer excluir [COLOR red]%s[/COLOR] de futuras actualizaciones?</string>
+    <string id="30085">¿Desea restaurar la biblioteca desde la copia de seguridad? ([COLOR ##COLOR##]%s[/COLOR])?</string>
+    <string id="30086">¿Está seguro de querer excluir [COLOR red]%s[/COLOR] de futuras comprobaciones?</string>
     <!-- Dialogs messages -->
     <string id="30100">OK</string>  
     <string id="30101">></string>
     <string id="30102">&lt;</string>
-    <string id="30103">Introduzca un título para de la Serie TV</string>
+    <string id="30103">Introduzca un título para la Serie TV</string>
     <string id="30104">Introduzca el número de la Temporada</string>
     <string id="30105">- Vacío -</string>
     <string id="30106">Presiona OK después de que haya comenzado la reproducción</string>
@@ -144,12 +144,12 @@
     <string id="30140">[COLOR ##COLOR##]¿Desbloquear[/COLOR] sincronización?</string>
     <string id="30141">¿Quiere [COLOR red]eliminar[/COLOR] la Película?</string>
     <string id="30142">¿Está seguro de querer [COLOR red]eliminar[/COLOR] esta Serie TV?</string>
-    <string id="30143">[COLOR ##COLOR##]Limpiando[/COLOR] base de datos de Videos</string>
+    <string id="30143">[COLOR ##COLOR##]Limpiando[/COLOR] base de datos de videos</string>
     <string id="30144">[COLOR ##COLOR##]Eliminando[/COLOR] carpetas vacías</string>
     <string id="30145">¿Quiere [COLOR ##COLOR##]bloquear[/COLOR] la sincronización?</string>
     <string id="30146">[COLOR ##COLOR##]Renombrar[/COLOR] episodio</string>
     <string id="30147">Serie TV [COLOR ##COLOR##]actual[/COLOR]</string>
-    <string id="30148">[COLOR ##COLOR##]Excluir[/COLOR] Add-on</string>
+    <string id="30148">[COLOR ##COLOR##]Excluidas[/COLOR] del Add-on</string>
     <!-- Titles -->
     <string id="30150">[COLOR ##COLOR##]%s[/COLOR]</string>
     <string id="30151">Introducir título de la Serie TV:</string>
@@ -167,7 +167,7 @@
     <string id="30163"> - [COLOR ##COLOR##]%s[/COLOR]</string>
     <string id="30164">%s ( %s: %s )</string>
     <string id="30165">Introducir título del nuevo episodio:</string>
-    <string id="30166">Elejir color:</string>
+    <string id="30166">Seleccione un color:</string>
     <string id="30167">Temporada</string>
     <string id="30168">Realizando copia de seguridad</string>
     <string id="30169">Seleccionar copia de seguridad</string>
@@ -209,12 +209,12 @@
     <string id="30204">[COLOR red]Proceso interrumpido![/COLOR]</string>
     <string id="30205">Para [COLOR ##COLOR##]fusionar[/COLOR] o [COLOR ##COLOR##]combinar[/COLOR] Series TV son necesarios al menos 2 elementos</string>
     <string id="30206">El enlace web [COLOR red]no se pudo abrir[/COLOR]</string>
-    <string id="30207">Imposible determinar [COLOR ##COLOR##]temporada[/COLOR] y [COLOR ##COLOR##]título[/COLOR] de la Serie TV.</string>
+    <string id="30207">Ha sido imposible detectar la [COLOR ##COLOR##]temporada[/COLOR] y el [COLOR ##COLOR##]título[/COLOR] de la Serie TV.</string>
     <string id="30208">Por favor introdúzcalo manualmente</string>
     <string id="30209">[COLOR red]No se han podido determinar[/COLOR] los datos del episodio</string>
-    <string id="30210">[COLOR red]Reduzca el número de episodios de la Serie TV[/COLOR]</string>
+    <string id="30210">[COLOR red]Reduzca el número de episodios para Serie TV[/COLOR]</string>
     <string id="30211">[COLOR red]Puede que el recurso de origen se encuentre corrupto:[/COLOR] %s[COLOR ##COLOR##]%s[/COLOR]</string>
-    <string id="30212">[COLOR red]La biblioteca no está disponible. [/COLOR] Verifique que la ruta introducida sea correcta</string>
+    <string id="30212">[COLOR red]La biblioteca no está disponible.[/COLOR] Verifique que la ruta introducida sea correcta</string>
     <string id="30213">[COLOR red]La biblioteca no está disponible.[/COLOR]</string>
     <string id="30214">[COLOR red]Bloqueado.[/COLOR] Procesos en segundo plano en ejecución</string>
     <string id="30215">[COLOR ##COLOR##]ATENCIÓN.[/COLOR] La Serie TV seleccionada está en otra biblioteca</string>
@@ -265,14 +265,14 @@
     <string id="30337">Episodio [COLOR red]eliminado[/COLOR]</string>
     <string id="30338">Add-on [COLOR red]excluido[/COLOR] de las actualizaciones</string>
     <!-- Settings -->
-    <string id="30401">Aplicar color a Menú y Mensajes</string>
+    <string id="30401">Aplicar color a menú y mensajes</string>
     <string id="30402">Actualizar (Limpiar) biblioteca de videos después de cada acción</string>
     <string id="30403">Añadir actualizar y limpiar biblioteca al menú principal</string>
     <string id="30404">Nombre para carpeta Peliculas</string>
     <string id="30405">Nombre para carpeta Series TV</string>
     <string id="30406">Activar progreso en segundo plano</string>
     <string id="30407">Número de elementos en menú principal</string>
-    <string id="30408">Paginas menú principal que muestran Ayuda y Configurar Add-on</string>
+    <string id="30408">Página del menú principal que muestra Ayuda y Configurar Add-on</string>
     <string id="30409">Tiempo de espera para abrir enlaces</string>
     <string id="30410">Convertir URL en *.strm</string>
     <string id="30411">Activar controles de reproducción</string>
@@ -299,10 +299,10 @@
     <string id="30432">Tiempo entre escaneos en segundo plano (minutos)</string>
     <string id="30433">Realizar escaneo en segundo plano durante inicio</string>
     <string id="30434">>  Renombrar carpetas ahora</string>
-    <string id="30435">>  Cambiar color de menú</string>
+    <string id="30435">>  Seleccionar color</string>
     <string id="30436">>  Renombrar todos los recursos automáticamente</string>
     <string id="30437">Ocultar adiciones forzadas durante escaneo en segundo plano</string>
-    <string id="30438">>  Copia de seguridad de biblioteca</string>
+    <string id="30438">>  Realizar copia de seguridad de biblioteca</string>
     <string id="30439">Ruta para copia de seguridad de biblioteca</string>
     <string id="30440">Eliminar antiguas copias de seguridad</string>
     <string id="30441">Número de copias de seguridad almacenadas</string>
@@ -322,7 +322,7 @@
     <string id="30455">CORE reproductor</string>
     <string id="30456">CORE reproductor, valor personalizado</string>
     <string id="30457">Tiempo de espera para reproducir (segundos)</string>
-    <string id="30458">Mostar cartel de ahora reproduciendo</string>
+    <string id="30458">Mostrar cartel de ahora reproduciendo</string>
     <string id="30459">Tiempo de espera para mostrar cartel de ahora reproduciendo (segundos)</string>
     <string id="30460">Copia de seguridad rápida</string>
     <string id="30461">Mantener antiguos archivos al restaurar</string>
