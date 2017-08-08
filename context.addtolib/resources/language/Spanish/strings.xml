@@ -19,7 +19,7 @@
     <string id="30012">[COLOR ##COLOR##]Renombrar[/COLOR] Serie TV</string>
     <string id="30013">[COLOR ##COLOR##]Renombrar[/COLOR] recurso de origen</string>
     <!-- <string id="30014">[COLOR ##COLOR##]Gestionar[/COLOR] actualizaciones</string> -->
-	<string id="30014">[COLOR ##COLOR##]Gestionar[/COLOR] excluidos de actualizaciones</string>
+	<string id="30014">[COLOR ##COLOR##]Gestionar[/COLOR] excluidos de actualización</string>
     <string id="30015">[COLOR ##COLOR##]Añadir[/COLOR] a Serie TV [COLOR ##COLOR##]existente[/COLOR]</string>
     <string id="30016">[COLOR ##COLOR##]Añadir[/COLOR] como Serie TV [COLOR ##COLOR##]Nueva[/COLOR]</string>
     <!--string id="30017">[COLOR ##COLOR##]&gt;&gt;[/COLOR] </string-->
@@ -30,9 +30,9 @@
     <string id="30021">[ [COLOR ##COLOR##]</string>
     <string id="30022">[/COLOR] ]</string>
     <string id="30023">&lt; [COLOR ##COLOR##]Nuevo[/COLOR] &gt;</string>
-    <string id="30024">[COLOR ##COLOR##]Añadir[/COLOR] como recurso para Temporadas</string>
+    <string id="30024">[COLOR ##COLOR##]Añadir[/COLOR] como recurso para temporadas</string>
     <string id="30025">[COLOR ##COLOR##]Temporadas:[/COLOR] </string>
-    <string id="30026">[COLOR ##COLOR##]Actualizar[/COLOR] recursos de origen para Temporadas</string>
+    <string id="30026">[COLOR ##COLOR##]Actualizar[/COLOR] recursos de origen para temporadas</string>
     <string id="30027">[COLOR ##COLOR##]Limpiar[/COLOR] biblioteca de video</string>
     <string id="30028">Mostrar recursos de origen</string>
     <string id="30029">[COLOR ##COLOR##]Re-Indexar[/COLOR] Series TV</string>
@@ -100,7 +100,7 @@
     <string id="30083">Add-on [COLOR red]bloqueado[/COLOR] hasta finalizar procesos en segundo plano. ¿Desea forzar su desbloqueo?</string>
     <string id="30084">¿Está seguro de querer [COLOR ##COLOR##]eliminar[/COLOR] todas las copias de seguridad?</string>
     <string id="30085">¿Desea restaurar la biblioteca desde la copia de seguridad ([COLOR ##COLOR##]%s[/COLOR])?</string>
-    <string id="30086">¿Está seguro de querer excluir [COLOR red]%s[/COLOR] de futuras comprobaciones?</string>
+    <string id="30086">¿Está seguro que quiere cambiar el estado de comprobación para [COLOR red]%s[/COLOR]?</string>
     <!-- Dialogs messages -->
     <string id="30100">OK</string>  
     <string id="30101">></string>
@@ -114,15 +114,15 @@
     <string id="30109">Auto-detectar</string>
     <string id="30110">Intentar detectar tipo de reproductor</string>
     <string id="30111">[COLOR red]Detectada desconexión por tiempo:[/COLOR] ¿Desea intentar continuar?</string>
-    <string id="30112">Reproductor:[COLOR ##COLOR##]Clásico[/COLOR] definido. Por favor intenté arrancar de nuevo la reproducción.</string>
-    <string id="30113">Reproductor:[COLOR ##COLOR##]ISP[/COLOR] definido. Reproducción iniciada.</string>
-    <string id="30114">Reproductor:[COLOR ##COLOR##]Por Carpetas[/COLOR] definido. Selecciona un archivo para comenzar a reproducir.</string>
+    <string id="30112">Reproductor: [COLOR ##COLOR##][Clásico][/COLOR] definido. Por favor intenté arrancar de nuevo la reproducción.</string>
+    <string id="30113">Reproductor:[COLOR ##COLOR##][ISP][/COLOR] definido. Reproducción iniciada.</string>
+    <string id="30114">Reproductor:[COLOR ##COLOR##][Por Carpetas][/COLOR] definido. Selecciona un archivo para comenzar a reproducir.</string>
     <string id="30115">Clásico</string>
     <string id="30116">ISP [Internal Source Player] (Reproductor Interno)</string>
     <string id="30117">Carpeta (Carpeta con elementos reproducibles)</string>
     <string id="30118">Alternativo (Dependiente del CORE)</string>
     <string id="30119">[COLOR ##COLOR##]Auto-detectar[/COLOR]</string>
-    <string id="30120">Reproductor:[COLOR ##COLOR##]Alternativo[/COLOR] definido. Presiona OK para empezar a reproducir.</string>
+    <string id="30120">Reproductor:[COLOR ##COLOR##][Alternativo][/COLOR] definido. Presiona OK para empezar a reproducir.</string>
     <string id="30121">[COLOR red]Eliminar[/COLOR]</string>
     <string id="30122">%s (%s)**[COLOR ##COLOR##]%s[/COLOR] %.1f**[COLOR ##COLOR##]%s[/COLOR] %s**[COLOR ##COLOR##]%s[/COLOR] %s</string>
     <string id="30123">Clasificación:</string>
@@ -130,8 +130,8 @@
     <string id="30125">Reproductor:</string>
     <string id="30126">Enlace directo</string>
     <string id="30127">ISP-Transition</string>
-    <string id="30128">Reproductor:[COLOR ##COLOR##]ISP-Transition[/COLOR] definido. Presiona OK para empezar a reproducir.</string>
-    <string id="30129">1. Presione sobre "Abrir" para abrir la ventana de autorización de Dropbox en su navegador web o sobre "Copiar URL" para copiar la URL de la solicitud de autorización a Dropbox a su portapapeles.%s2. Autorice a ADD To Lib usando su cuenta y contraseña de Dropbox.%s3. Copie el código que se le proporciona y vuelva a Kodi.%s4. Siga las instrucciones.</string>
+    <string id="30128">Reproductor:[COLOR ##COLOR##][ISP-Transition][/COLOR] definido. Presiona OK para empezar a reproducir.</string>
+    <string id="30129">1. Presione sobre "Abrir" para abrir la ventana de autorización de Dropbox en su navegador web predeterminado o sobre "Copiar URL" para copiar la URL de la solicitud de autorización a Dropbox a su portapapeles.%s2. Autorice a ADD To Lib usando su cuenta y contraseña de Dropbox.%s3. Copie el código que se le proporciona y vuelva a Kodi.%s4. Siga las instrucciones.</string>
     <string id="30130">4. Presione sobre "Pegar" para pegar desde el portapapeles el código que se le ha proporcionado o a haga click sobre "Teclado" para introducirlo manualmente.%s5. Presione "OK" para confirmar.</string>
     <string id="30131">Conexión realizada [COLOR green]CORRECTAMENTE[/COLOR].%sSincronización realizada. Vaya a ajustes en el Add-on para ver más opciones.</string>
     <string id="30132">Error conectándose a Dropdox.%sCompruebe si el código ha sido introducido correctamente.</string>
@@ -150,7 +150,7 @@
     <string id="30145">¿Quiere [COLOR ##COLOR##]bloquear[/COLOR] la sincronización?</string>
     <string id="30146">[COLOR ##COLOR##]Renombrar[/COLOR] episodio</string>
     <string id="30147">Serie TV [COLOR ##COLOR##]actual[/COLOR]</string>
-    <string id="30148">[COLOR ##COLOR##]Excluidas[/COLOR] del Add-on</string>
+    <string id="30148">[COLOR ##COLOR##]Excluidas[/COLOR] del Add-On</string>
     <!-- Titles -->
     <string id="30150">[COLOR ##COLOR##]%s[/COLOR]</string>
     <string id="30151">Introducir título de la Serie TV:</string>
@@ -208,16 +208,16 @@
     <string id="30202">Los datos introducidos no son correctos.</string>
     <string id="30203">No existen elementos que añadir</string>
     <string id="30204">[COLOR red]Proceso interrumpido![/COLOR]</string>
-    <string id="30205">Para [COLOR ##COLOR##]fusionar[/COLOR] o [COLOR ##COLOR##]combinar[/COLOR] una Series TV son necesarios al menos 2 elementos</string>
+    <string id="30205">Para [COLOR ##COLOR##]fusionar[/COLOR] o [COLOR ##COLOR##]combinar[/COLOR] Series TV son necesarios al menos 2 elementos</string>
     <string id="30206">El enlace web [COLOR red]no se pudo abrir[/COLOR]</string>
     <string id="30207">Nos ha sido imposible determinar el [COLOR ##COLOR##]título[/COLOR] y la [COLOR ##COLOR##]temporada[/COLOR] de esta Serie TV.</string>
     <string id="30208">Por favor pruebe a introducir el título manualmente.</string>
     <string id="30209">[COLOR red]No se han podido determinar[/COLOR] los datos para el episodio</string>
-    <string id="30210">[COLOR red]Reduzca el número de episodios para Serie TV[/COLOR]</string>
+    <string id="30210">[COLOR red]Reduzca el número de episodios para la Serie TV[/COLOR]</string>
     <string id="30211">[COLOR red]Puede que el recurso de origen se encuentre corrupto:[/COLOR] %s[COLOR ##COLOR##]%s[/COLOR]</string>
-    <string id="30212">[COLOR red]Biblioteca no disponible.[/COLOR] Compruebe la ruta introducida</string>
-    <string id="30213">[COLOR red]La biblioteca no está disponible.[/COLOR]</string>
-    <string id="30214">[COLOR red]Bloqueado.[/COLOR] Procesos en segundo plano en ejecución</string>
+    <string id="30212">[COLOR red]Biblioteca no disponible.[/COLOR] Compruebe ruta introducida</string>
+    <string id="30213">[COLOR red]Biblioteca no disponible.[/COLOR]</string>
+    <string id="30214">[COLOR red]Add-On bloqueado.[/COLOR] Tareas en segundo plano en ejecución</string>
     <string id="30215">[COLOR ##COLOR##]ATENCIÓN.[/COLOR] La Serie TV seleccionada está en otra biblioteca</string>
     <string id="30216">[COLOR red]Copia de seguridad corrupta.[/COLOR] Imposible restaurar</string>
     <string id="30217">[COLOR red]Ruta para copia de seguridad no disponible.[/COLOR] Compruebe ruta introducida</string>
@@ -225,7 +225,7 @@
     <string id="30219">Reproductor [COLOR red]incorrecto[/COLOR]. Recurso: %s</string>
     <string id="30220">[COLOR red]No ha sido posible conectar[/COLOR] con Dropbox</string>
     <string id="30221">[COLOR red]Detectados procesos de sincronización en ejecución.[/COLOR] %sEn caso de error ejecute desbloqueo.</string>
-    <string id="30222">[COLOR red]Error en Dropbox.[/COLOR]%sConsulte kodi.log para ver detalles.</string>
+    <string id="30222">[COLOR red]Error en proceso Dropbox.[/COLOR]%sConsulte kodi.log para ver detalles.</string>
     <!-- OK messages -->
     <string id="30301">Proceso completado [COLOR ##COLOR##]satisfactoriamente[/COLOR]</string>
     <string id="30302">Película añadida</string>
@@ -247,11 +247,11 @@
     <string id="30318">Series TV [COLOR ##COLOR##]restauradas[/COLOR]</string>
     <string id="30319">Título del episodio [COLOR ##COLOR##]cambiado[/COLOR]</string>
     <string id="30320">[COLOR ##COLOR##]Detectadas[/COLOR] nuevas temporadas</string>
-    <string id="30321">Recursos para Series TV [COLOR ##COLOR##]re-escaneados[/COLOR]</string>
-    <string id="30322">Todos los recursos para todas las Series TV han sido [COLOR ##COLOR##]re-escaneados[/COLOR]</string>
-    <string id="30323">Todas los recursos [COLOR ##COLOR##]renombrados[/COLOR]</string>
+    <string id="30321">[COLOR ##COLOR##]Re-escaneados[/COLOR] recursos para Series TV [</string>
+    <string id="30322">[COLOR ##COLOR##]Re-escaneados[/COLOR] todos los recursos para todas las Series TV</string>
+    <string id="30323">[COLOR ##COLOR##]Renombrados[/COLOR] todos los recursos </string>
     <string id="30324">Copia de seguridad [COLOR ##COLOR##]creada[/COLOR]</string>
-    <string id="30325">Todas las copias de seguridad [COLOR red]eliminadas[/COLOR]</string>
+    <string id="30325">[COLOR red]Eliminadas[/COLOR] todas las copias de seguridad</string>
     <string id="30326">Biblioteca [COLOR ##COLOR##]restaurada[/COLOR]</string>
     <string id="30327">[COLOR ##COLOR##]No existen[/COLOR] copias de seguridad</string>
     <string id="30328">Base de datos de video [COLOR ##COLOR##]actualizada[/COLOR]</string>
