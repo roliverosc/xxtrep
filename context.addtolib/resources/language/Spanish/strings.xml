@@ -84,23 +84,23 @@
     <string id="30097">Configurar Add-On</string>
     <string id="30098">[COLOR ##COLOR##]&lt;[/COLOR] Retroceder</string>
     <string id="30099">Cancelar</string>
-    <!-- Confirms -->
-    <string id="30071">¿Seguro que quiere [COLOR ##COLOR##]re-escanear[/COLOR] el recurso para %s?</string>
-    <string id="30072">¿Seguro que quiere [COLOR ##COLOR##]eliminar[/COLOR] el recurso para %s?</string>
-    <string id="30073">¿Seguro que quiere [COLOR ##COLOR##]restaurar[/COLOR] esta serie de TV?</string>
-    <string id="30074">¿Seguro que quiere [COLOR ##COLOR##]eliminar[/COLOR] esta serie de TV?</string>
-    <string id="30075">¿Seguro que quiere [COLOR ##COLOR##]renombrar[/COLOR] esta serie de TV?</string>
-    <string id="30076">¿Seguro que quiere [COLOR ##COLOR##]combinar[/COLOR] estas series de TV?</string>
-    <string id="30077">¿Quiere [COLOR ##COLOR##]limpiar[/COLOR] la biblioteca?</string>
-    <string id="30078">¿Seguro que quiere [COLOR ##COLOR##]añadir[/COLOR] la serie de TV con título: [COLOR ##COLOR##]%s[/COLOR]?</string>
-    <string id="30079">¿Seguro que quiere [COLOR ##COLOR##]restaurar todas[/COLOR] las series de TV?</string>
-    <string id="30080">¿Seguro que quiere [COLOR ##COLOR##]re-escanear[/COLOR] el recurso seleccionado para la serie de TV?</string>
-    <string id="30081">¿Seguro que quiere [COLOR ##COLOR##]re-escanear todos[/COLOR] los recursos para [COLOR ##COLOR##]todas las series de TV[/COLOR]?</string>
-    <string id="30082">¿Seguro que quiere [COLOR ##COLOR##]renombrar automáticamente[/COLOR] todos los recursos?</string>
-    <string id="30083">Add-on [COLOR red]bloqueado[/COLOR] hasta finalizar procesos en segundo plano. ¿Desea forzar su desbloqueo?</string>
-    <string id="30084">¿Seguro que quiere [COLOR ##COLOR##]eliminar[/COLOR] todas las copias de seguridad?</string>
+    <!-- Confirms --> 
+    <string id="30071">¿Está seguro de que quiere [COLOR ##COLOR##]re-escanear[/COLOR] el recurso para %s?</string>
+    <string id="30072">¿Está seguro de que quiere [COLOR ##COLOR##]eliminar[/COLOR] el recurso para %s?</string>
+    <string id="30073">¿Está seguro de que quiere [COLOR ##COLOR##]restaurar[/COLOR] esta serie de TV?</string>
+    <string id="30074">¿Está seguro de que quiere [COLOR ##COLOR##]eliminar[/COLOR] esta serie de TV?</string>
+    <string id="30075">¿Está seguro de que quiere [COLOR ##COLOR##]renombrar[/COLOR] esta serie de TV?</string>
+    <string id="30076">¿Está seguro de que quiere [COLOR ##COLOR##]combinar[/COLOR] estas series de TV?</string>
+    <string id="30077">¿Está seguro de que quiere [COLOR ##COLOR##]limpiar[/COLOR] la biblioteca?</string>
+    <string id="30078">¿Está seguro de que quiere [COLOR ##COLOR##]añadir[/COLOR] la serie de TV con título: [COLOR ##COLOR##]%s[/COLOR]?</string>
+    <string id="30079">¿Está seguro de que quiere [COLOR ##COLOR##]restaurar todas[/COLOR] las series de TV?</string>
+    <string id="30080">¿Está seguro de que quiere [COLOR ##COLOR##]re-escanear[/COLOR] el recurso seleccionado para la serie de TV?</string>
+    <string id="30081">¿Está seguro de que quiere [COLOR ##COLOR##]re-escanear todos[/COLOR] los recursos para [COLOR ##COLOR##]todas las series de TV[/COLOR]?</string>
+    <string id="30082">¿Está seguro de que quiere [COLOR ##COLOR##]renombrar automáticamente[/COLOR] todos los recursos?</string>
+    <string id="30083">Add-On [COLOR red]bloqueado[/COLOR] hasta finalizar procesos en segundo plano. ¿Desea forzar desbloqueo?</string>
+    <string id="30084">¿Está seguro de que quiere [COLOR ##COLOR##]eliminar[/COLOR] todas las copias de seguridad?</string>
     <string id="30085">¿Desea restaurar la biblioteca desde la copia de seguridad ([COLOR ##COLOR##]%s[/COLOR])?</string>
-    <string id="30086">¿Seguro que quiere cambiar el estado de comprobación para [COLOR red]%s[/COLOR]?</string>
+    <string id="30086">¿Está seguro de que quiere cambiar el estado de comprobación para [COLOR red]%s[/COLOR]?</string>
     <!-- Dialogs messages -->
     <string id="30100">OK</string>  
     <string id="30101">></string>
@@ -133,7 +133,7 @@
     <string id="30128">Reproductor: [COLOR ##COLOR##][ISP-Transition][/COLOR] definido. Presiona OK para empezar a reproducir.</string>
     <string id="30129">1. Presione sobre "Abrir" para abrir la ventana de autorización de Dropbox en su navegador web predeterminado o sobre "Copiar URL" para copiar la URL de la solicitud de autorización a Dropbox a su portapapeles.%s2. Autorice a ADD To Lib usando su cuenta y contraseña de Dropbox.%s3. Copie el código que se le proporciona y vuelva a Kodi.%s4. Siga las instrucciones.</string>
     <string id="30130">4. Presione sobre "Pegar" para pegar desde el portapapeles el código que se le ha proporcionado o a haga click sobre "Teclado" para introducirlo manualmente.%s5. Presione "OK" para confirmar.</string>
-    <string id="30131">Conexión realizada [COLOR green]CORRECTAMENTE[/COLOR].%sSincronización realizada. Vaya a ajustes en el Add-on para ver más opciones.</string>
+    <string id="30131">Conexión realizada [COLOR green]CORRECTAMENTE[/COLOR].%sSincronización realizada. Vaya a ajustes en el Add-On para ver más opciones.</string>
     <string id="30132">Error conectándose a Dropdox.%sCompruebe si el código ha sido introducido correctamente.</string>
     <string id="30133">Conexión con Dropbox [COLOR red]TERMINADA[/COLOR].%sSincronización deshabilitada. Para volver a usar Dropbox debe conectarse de nuevo a su cuenta.</string>
     <string id="30134">[COLOR red]ENTER CODE[/COLOR]</string>
@@ -143,18 +143,18 @@
     <string id="30138">Es recomendable dejar [COLOR ##COLOR##]bloqueada[/COLOR] la sincronización y realizar una [COLOR ##COLOR##]actualización forzada[/COLOR] de datos, al desbloquear se actulizara con los datos más recientes. ¿Desea continuar desbloqueándolo?</string>
     <string id="30139">¿Comenzar [COLOR ##COLOR##]actualización forzada[/COLOR] de datos?</string>
     <string id="30140">[COLOR ##COLOR##]¿Desbloquear[/COLOR] sincronización?</string>
-    <string id="30141">¿Está seguro que quiere [COLOR red]eliminar[/COLOR] esta Película?</string>
-    <string id="30142">¿Está seguro que quiere [COLOR red]eliminar[/COLOR] esta serie de TV?</string>
+    <string id="30141">¿Está seguro de que quiere [COLOR red]eliminar[/COLOR] esta Película?</string>
+    <string id="30142">¿Está seguro de que quiere [COLOR red]eliminar[/COLOR] esta serie de TV?</string>
     <string id="30143">[COLOR ##COLOR##]Limpiando[/COLOR] base de datos de videos</string>
     <string id="30144">[COLOR ##COLOR##]Eliminando[/COLOR] carpetas vacías</string>
-    <string id="30145">¿Está seguro que quiere [COLOR ##COLOR##]bloquear[/COLOR] la sincronización?</string>
+    <string id="30145">¿Está seguro de que quiere [COLOR ##COLOR##]bloquear[/COLOR] la sincronización?</string>
     <string id="30146">[COLOR ##COLOR##]Renombrar[/COLOR] episodio</string>
     <string id="30147">Serie de TV [COLOR ##COLOR##]actual[/COLOR]</string>
-    <string id="30148">[COLOR ##COLOR##]Excluidas[/COLOR] del Add-On</string>
+    <string id="30148">[COLOR ##COLOR##]Excluidos[/COLOR] de comprobación</string>
     <!-- Titles -->
     <string id="30150">[COLOR ##COLOR##]%s[/COLOR]</string>
     <string id="30151">Introducir título de la serie de TV:</string>
-    <string id="30152">Elejir título de la serie de TV:</string>
+    <string id="30152">Elegir título de la serie de TV:</string>
     <string id="30153">Añadir serie de TV</string>
     <string id="30154">Encontrados nuevos episodios</string>
     <string id="30155">Series de TV [COLOR ##COLOR##]existentes[/COLOR]</string>
@@ -183,7 +183,7 @@
     <string id="30178">Compactando biblioteca</string>
     <string id="30179">Eliminando viejas copias de seguridad</string>
     <string id="30180">Limpiando</string>
-    <string id="30181">Limpiando datos erroneos</string>
+    <string id="30181">Limpiando datos erróneos</string>
     <string id="30182">[B]AÑADIR A [COLOR ##COLOR##]BIBLIOTECA[/COLOR] (ADD TO LIB)  Ayuda Add-On:[/B]</string>
     <string id="30183">Menú principal</string>
     <string id="30184">Seleccionar skin:</string>
@@ -241,7 +241,7 @@
     <string id="30312">Series de TV combinadas correctamente</string>
     <string id="30313">Fuente para temporadas añadida</string>
     <string id="30314">Fuente para temporadas actualizada</string>
-    <string id="30315">Estado para actualización cambiado</string>
+    <string id="30315">Estado para comprobación cambiado</string>
     <string id="30316">[COLOR ##COLOR##]Biblioteca de video[/COLOR] actualizada</string>
     <string id="30317">Series de TV [COLOR ##COLOR##]re-indexadas[/COLOR]</string>
     <string id="30318">Series de TV [COLOR ##COLOR##]restauradas[/COLOR]</string>
@@ -264,7 +264,7 @@
     <string id="30335">%s [COLOR ##COLOR##]eliminado[/COLOR]</string>
     <string id="30336">Sincronización [COLOR ##COLOR##]bloqueada[/COLOR]</string>
     <string id="30337">Episodio [COLOR red]eliminado[/COLOR]</string>
-    <string id="30338">Add-on [COLOR red]excluido[/COLOR] de actualizaciones</string>
+    <string id="30338">Estado para comprobación cambiado</string>
     <!-- Settings -->
     <string id="30401">Aplicar color a menú y mensajes</string>
     <string id="30402">Actualizar (limpiar) biblioteca de video después de cada acción</string>
@@ -273,7 +273,7 @@
     <string id="30405">Nombre para la carpeta 'Series de TV':</string>
     <string id="30406">Activar progreso en segundo plano</string>
     <string id="30407">Número de elementos en menú principal:</string>
-    <string id="30408">Página menú principal que muestra 'Ayuda' y 'Configurar Add-on':</string>
+    <string id="30408">Página menú principal que muestra 'Ayuda' y 'Configurar Add-On':</string>
     <string id="30409">Tiempo de espera para abrir enlaces (segundos):</string>
     <string id="30410">Convertir URL en *.strm</string>
     <string id="30411">Activar opciones de reproducción</string>
@@ -281,13 +281,13 @@
     <string id="30413">Ignorar información sobre posición durante (segundos):</string>
     <string id="30414">Porcentaje de progreso para marcar como visto:</string>
     <string id="30415">Reanudar automáticamente desde última posición</string>
-    <string id="30416">Mostrar diálogo del Add-on 'Reanudar desde' (no reemplaza el diálogo estándar)</string>
+    <string id="30416">Mostrar diálogo del Add-On 'Reanudar desde' (no reemplaza el diálogo estándar)</string>
     <string id="30417">Sustituir estado de visualización por porcentaje de progreso de reproducción</string>
     <string id="30418">Tiempo de espera antes de reanudar (segundos):</string>
     <string id="30419">Determinar tipo archivo según extensión</string>
     <string id="30420">Ruta para biblioteca:</string>
     <string id="30421">Por defecto</string>
-    <string id="30422">>  Establecer ruta de biblioteca en Add-on como predeterminada</string>
+    <string id="30422">>  Establecer ruta de biblioteca en Add-On como predeterminada</string>
     <string id="30423">>  Actualizar biblioteca</string>
     <string id="30424">>  Limpiar biblioteca</string>
     <string id="30425">Reproductor predeterminado:</string>
@@ -340,7 +340,7 @@
     <string id="30472">Sincronizar estado de visualización automáticamente</string>
     <string id="30473">Tiempo entre cada sincronización para estados de visualización (minutos):</string>
     <string id="30474">Tiempo de espera entre solicitudes JSON (mili segundos):</string>
-    <string id="30475">Lanzar Add-on desde memoria (sin proceso autónomo)</string>
+    <string id="30475">Lanzar Add-On desde memoria (sin proceso autónomo)</string>
     <string id="30476">>  Detener servicio principal</string>
     <string id="30477">>  Iniciar servicio principal</string>
     <string id="30478">Estado del servicio:</string>
