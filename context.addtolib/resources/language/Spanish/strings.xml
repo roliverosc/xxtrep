@@ -25,7 +25,7 @@
     <!--string id="30017">[COLOR ##COLOR##]&gt;&gt;[/COLOR] </string-->
     <string id="30017">[COLOR ##COLOR##]Actualizar[/COLOR] </string>
     <string id="30018">[COLOR ##COLOR##]Mostrar todas[/COLOR] las series de TV</string>
-    <string id="30019">[COLOR ##COLOR##]Gestionar[/COLOR] recursos de origen</string>
+    <string id="30019">[COLOR ##COLOR##]Gestionar[/COLOR] recurso de origen</string>
     <string id="30020">[COLOR ##COLOR##]Gestionar[/COLOR] series de TV</string>
     <string id="30021">[ [COLOR ##COLOR##]</string>
     <string id="30022">[/COLOR] ]</string>
@@ -233,7 +233,7 @@
     <string id="30304">Episodios actualizados</string>
     <string id="30305">Episodios Re-escaneados</string>
     <string id="30306">Restaurado</string>
-    <string id="30307">Recurso de origen [COLOR red]eliminada[/COLOR]</string>
+    <string id="30307">Recurso de origen [COLOR red]eliminado[/COLOR]</string>
     <string id="30308">[COLOR red]Eliminado[/COLOR]</string>
     <string id="30309">No se han encontrado nuevos episodios</string>
     <string id="30310">Título cambiado</string>
@@ -248,7 +248,7 @@
     <string id="30319">Título del episodio [COLOR ##COLOR##]cambiado[/COLOR]</string>
     <string id="30320">[COLOR ##COLOR##]Detectadas[/COLOR] nuevas temporadas</string>
     <string id="30321">[COLOR ##COLOR##]Re-escaneados[/COLOR] recursos para series de TV [</string>
-    <string id="30322">[COLOR ##COLOR##]Re-escaneadas[/COLOR] todao los recursos para todas las series de TV</string>
+    <string id="30322">[COLOR ##COLOR##]Re-escaneadas[/COLOR] todos los recursos para todas las series de TV</string>
     <string id="30323">[COLOR ##COLOR##]Renombradas[/COLOR] todos los recursos </string>
     <string id="30324">Copia de seguridad [COLOR ##COLOR##]creada[/COLOR]</string>
     <string id="30325">[COLOR red]Eliminadas[/COLOR] todas las copias de seguridad</string>
@@ -268,12 +268,12 @@
     <!-- Settings -->
     <string id="30401">Aplicar color a menú y mensajes</string>
     <string id="30402">Actualizar (limpiar) biblioteca de video después de cada acción</string>
-    <string id="30403">Añadir 'actualizar' y 'limpiar biblioteca' al menú principal</string>
+    <string id="30403">Mostrar 'Actualizar' y 'Limpiar biblioteca'</string>
     <string id="30404">Nombre para la carpeta 'Peliculas':</string>
     <string id="30405">Nombre para la carpeta 'Series de TV':</string>
     <string id="30406">Activar progreso en segundo plano</string>
-    <string id="30407">Número de elementos en menú principal:</string>
-    <string id="30408">Página menú principal que muestra 'Ayuda' y 'Configurar Add-On':</string>
+    <string id="30407">Número de elementos por página:</string>
+    <string id="30408">Página que muestra 'Ayuda' y 'Configurar Add-On':</string>
     <string id="30409">Tiempo de espera para abrir enlaces (segundos):</string>
     <string id="30410">Convertir URL en *.strm</string>
     <string id="30411">Activar opciones de reproducción</string>
@@ -322,7 +322,7 @@
     <string id="30454">Forzar cierre de diálogos</string>
     <string id="30455">CORE reproductor:</string>
     <string id="30456">CORE reproductor, valor personalizado</string>
-    <string id="30457">Tiempo de espera para conexión con un enlace (segundos):</string>
+    <string id="30457">Tiempo de espera para conexión con enlaces (segundos):</string>
     <string id="30458">Mostrar cartel de ahora reproduciendo</string>
     <string id="30459">Tiempo de espera para mostrar cartel de ahora reproduciendo (segundos):</string>
     <string id="30460">Realizar copia de seguridad rápida</string>
