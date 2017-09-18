@@ -28,7 +28,7 @@
     <summary lang="en">Adds links to movies and TV shows from other add-ons in Kodi library</summary>
     <summary lang="ru">Добавляет ссылки на фильмы и сериалы из других дополнений в библиотеку Kodi</summary>
     <!-- <summary lang="es">Añadir enlaces a Películas y Series de otros add-ons en Kodi biblioteca</summary> -->
-    <summary lang="es">Add to Lib permite añadir a tu biblioteca Kodi a través del menú contextual enlaces de otros add-ons a Películas y Series de TV</summary> 
+    <summary lang="es">Add to Lib permite añadir a su biblioteca Kodi enlaces de otros add-ons a Películas y Series de TV a través del menú contextual.</summary> 
 
     
     <description lang="en">Context menu item to add links to TV shows and movies from other add-ons in Kodi library, as .strm files. The addition allows you to check for new episodes and seasons, manage added content, and to receive full information from the library to playable .strm files. 
@@ -39,7 +39,7 @@ Details on http://taifxx.github.io/xxtrep</description>
 Больше информации можно получить в разделе Помощи дополнения.
 
 Детали на http://taifxx.github.io/xxtrep.ru</description>
-    <description lang="es">Add to Lib permite añadir a tu biblioteca Kodi a través del menú contextual enlaces de otros add-ons a Películas y Series de TV, como archivos .strm. La adición a través de Add to Lib permite comprobar si existen nuevos episodios y temporadas desde los recursos de origen, administrar tus contenidos agregados y recibir información completa de la biblioteca cuando el video se reproduce.
+    <description lang="es">Add to Lib permite añadir a su biblioteca Kodi enlaces de otros add-ons a Películas y Series de TV como archivos .strm a través del menú contextual. La adición a través de Add to Lib permite comprobar si existen nuevos episodios y temporadas desde los recursos de origen, administrar tus contenidos agregados y recibir información completa de la biblioteca cuando el video se reproduce.
 Más información puede encontrarse en la sección de ayuda. Gracias Ruorbe por la traducción, y roliverosc por la actualización para el idioma español.
 
 Detalles sobre http://taifxx.github.io/xxtrep</description>
