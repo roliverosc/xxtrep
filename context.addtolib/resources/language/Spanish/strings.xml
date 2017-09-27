@@ -5,7 +5,7 @@
     <string id="30000">ES</string>
     <!-- Menue Items -->
     <string id="30001">Añadir a biblioteca como [COLOR ##COLOR##]"Película"[/COLOR]</string>
-    <string id="30002">Añadir a biblioteca como [COLOR ##COLOR##]"temporada de serie de TV"[/COLOR]</string>
+    <string id="30002">Añadir a biblioteca como [COLOR ##COLOR##]"Temporada de serie de TV"[/COLOR]</string>
     <string id="30003">[COLOR ##COLOR##]Actualizar[/COLOR] episodios de series de TV</string>
     <string id="30004">[COLOR ##COLOR##]Abrir[/COLOR] recurso de origen</string>
     <string id="30005">[COLOR ##COLOR##]Re-Escanear[/COLOR] recurso de origen actual</string>
@@ -110,8 +110,8 @@
     <string id="30107">ADD To Lib no puede definir un método de reproducción para este recurso. Por favor seleccione uno a continuación.</string>
     <string id="30108">Selección tipo de reproductor</string>
     <string id="30109">Auto-detectar</string>
-    <string id="30110">Intentar detectar tipo de reproductor</string>
-    <string id="30111">[COLOR red]Detectada desconexión por tiempo:[/COLOR] ¿Desea intentar continuar?</string>
+    <string id="30110">Intentando detectar tipo de reproductor</string>
+    <string id="30111">[COLOR red]Detectada desconexión por tiempo:[/COLOR] ¿Desea continuar?</string>
     <string id="30112">Reproductor: [COLOR ##COLOR##][Clásico][/COLOR] definido. Por favor intenté arrancar de nuevo la reproducción.</string>
     <string id="30113">Reproductor: [COLOR ##COLOR##][ISP][/COLOR] definido. Reproducción iniciada.</string>
     <string id="30114">Reproductor: [COLOR ##COLOR##][Por Carpetas][/COLOR] definido. Selecciona un archivo para comenzar a reproducir.</string>
