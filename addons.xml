@@ -28,7 +28,7 @@
 
     <summary lang="en">Adds links to movies and TV shows from other add-ons in Kodi library</summary>
     <summary lang="ru">Добавляет ссылки на фильмы и сериалы из других дополнений в библиотеку Kodi</summary>
-    <summary lang="es">Añadir enlaces a Películas y Series desde otros add-ons a nuestra biblioteca en Kodi</summary>
+    <summary lang="es">Agrega enlaces a películas y series TV desde otros complementos a nuestra biblioteca en Kodi.</summary>
 
     <description lang="en">Context menu item to add links to TV shows and movies from other add-ons in Kodi library, as .strm files. The addition allows you to check for new episodes and seasons, manage added content, and to receive full information from the library to playable .strm files.
 More information can be found in the help section.
@@ -38,7 +38,7 @@ Details on http://taifxx.github.io/xxtrep</description>
 Больше информации можно получить в разделе Помощи дополнения.
 
 Детали на http://taifxx.github.io/xxtrep.ru</description>
-    <description lang="es">Elemento de menú contextual para añadir enlaces a Películas y Series desde otros complementos a nuestra biblioteca en Kodi. La adición permite comprobar nuevos episodios y temporadas, administrar nuestro contenido agregado y recibir información completa desde la biblioteca cuando el video se este reproducciendo.
+    <description lang="es">Elemento de menú contextual para añadir enlaces a películas y series TV desde otros complementos a nuestra biblioteca en Kodi. La adición permite comprobar nuevos episodios y temporadas, administrar nuestro contenido agregado y recibir información completa desde la biblioteca cuando el video se este reproducciendo.
 Más información en la sección de ayuda.
 
 Detalles en http://taifxx.github.io/xxtrep</description>
