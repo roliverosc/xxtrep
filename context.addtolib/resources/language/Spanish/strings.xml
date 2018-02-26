@@ -123,7 +123,7 @@
     <string id="30120">Reproductor [COLOR ##COLOR##][Alternativo][/COLOR] definido. Presiona OK para empezar a reproducir.</string>
     <string id="30121">[COLOR red]Eliminar[/COLOR]</string>
     <string id="30122">%s (%s)**[COLOR ##COLOR##]%s[/COLOR] %.1f**[COLOR ##COLOR##]%s[/COLOR] %s**[COLOR ##COLOR##]%s[/COLOR] %s</string>
-    <string id="30123">Calificación:</string>
+    <string id="30123">Valoración:</string>
     <string id="30124">Recurso:</string>
     <string id="30125">Reproductor:</string>
     <string id="30126">Enlace directo</string>
