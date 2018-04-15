@@ -79,7 +79,7 @@
     <string id="30091">[COLOR ##COLOR##]&lt;[/COLOR] Retroceder</string>
     <string id="30092">[COLOR ##COLOR##]Aceptar[/COLOR]</string>
     <string id="30096">Ayuda</string>
-    <string id="30097">Configurar Add-On</string>
+    <string id="30097">Configurar Add-on</string>
     <string id="30098">[COLOR ##COLOR##]&lt;[/COLOR] Retroceder</string>
     <string id="30099">Cancelar</string>
     <!-- Confirms --> 
@@ -95,7 +95,7 @@
     <string id="30080">¿Está seguro de que desea [COLOR ##COLOR##]re-escanear[/COLOR] el recurso seleccionado para la serie de TV?</string>
     <string id="30081">¿Está seguro de que desea [COLOR ##COLOR##]re-escanear todos[/COLOR] los recursos para [COLOR ##COLOR##]todas las series de TV[/COLOR]?</string>
     <string id="30082">¿Está seguro de que desea [COLOR ##COLOR##]renombrar automáticamente[/COLOR] todos los recursos?</string>
-    <string id="30083">Add-On [COLOR red]bloqueado[/COLOR] hasta finalizar procesos en segundo plano. ¿Desea forzar desbloqueo?</string>
+    <string id="30083">Add-on [COLOR red]bloqueado[/COLOR] hasta finalizar procesos en segundo plano. ¿Desea forzar desbloqueo?</string>
     <string id="30084">¿Está seguro de que desea [COLOR ##COLOR##]eliminar[/COLOR] todas las copias de seguridad?</string>
     <string id="30085">¿Desea restaurar la biblioteca desde la copia de seguridad ([COLOR ##COLOR##]%s[/COLOR])?</string>
     <string id="30086">¿Está seguro de que desea cambiar el estado de comprobación para [COLOR red]%s[/COLOR]?</string>
