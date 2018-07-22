@@ -343,8 +343,8 @@
     <string id="30476">>  Detener servicio principal</string>
     <string id="30477">>  Iniciar servicio principal</string>
     <string id="30478">Estado del servicio:</string>
-    <string id="30479">[COLOR limegreen]CORRIENDO[/COLOR]</string>
-    <string id="30480">[COLOR red]PARADO[/COLOR]</string>
+    <string id="30479">[COLOR limegreen]EN EJECUCIÓN[/COLOR]</string>
+    <string id="30480">[COLOR red]DETENIDO[/COLOR]</string>
     <string id="30481">Permitir servicios</string>
     <!-- Settings categories -->
     <string id="30950">General</string>
