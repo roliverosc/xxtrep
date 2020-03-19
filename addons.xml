@@ -28,7 +28,7 @@
 
     <summary lang="en">Adds links to movies and TV shows from other add-ons in Kodi library</summary>
     <summary lang="ru">Добавляет ссылки на фильмы и сериалы из других дополнений в библиотеку Kodi</summary>
-    <summary lang="es">Añade enlaces de películas y series TV de otros complementos a nuestra biblioteca Kodi.</summary>
+    <summary lang="es">Agrega enlaces a películas y programas de TV desde otros complementos a la biblioteca Kodi</summary>
 
     <description lang="en">Context menu item to add links to TV shows and movies from other add-ons in Kodi library, as .strm files. The addition allows you to check for new episodes and seasons, manage added content, and to receive full information from the library to playable .strm files.
 More information can be found in the help section.
